@@ -1,0 +1,43 @@
+body{
+ background-image: url(https://www.vets4pets.com/siteassets/species/dog/large-dog-on-walk-looking-over-hills.jpg?w=585&scale=down);
+ background-repeat: no-repeat;
+ background-size: 205vh;
+}
+.new-bar img{
+    position: absolute;
+    width: 40px;
+    margin-left: 20px;
+}
+.new-bar h1{
+    position: relative;
+    left: 4.5%;
+    color: white;
+}
+.new-bar ul li{
+    position:relative ;
+    display: inline-block;
+    padding: 10px;
+    top: -50px;
+    left: 50%;
+    color: white;
+}
+.new-bar li a{
+    color: white;
+    text-decoration:none ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.new-bar input{
+    position: relative;
+    top: -50px;
+    left: 52%;
+    height: 5vh;
+    border-radius: 15px;
+
+}
+.new-bar i{
+    position: relative;
+    top: -50px;
+    left: 50%;
+    color: red;
+
+}
